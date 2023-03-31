@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+
+>>>>>>> 29777fad11fee57a4fde1106dff382a4b82a7d9c
 #ifndef MAIN_H
 #define MAIN_H
 #include <stdarg.h>
